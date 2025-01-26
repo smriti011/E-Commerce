@@ -30,7 +30,7 @@ Category:     Product category.
 
 Price:        Product price in USD.
 
-4. Transactions.csv
+3. Transactions.csv
 
 TransactionID:   Unique identifier for each transaction.
 
