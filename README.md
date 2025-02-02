@@ -22,7 +22,7 @@ This repository contains an eCommerce Transactions dataset consisting of three C
 
 * Clone this repository to your local machine.
 
-                https://github.com/smriti011/E-Commerce
+        https://github.com/smriti011/E-Commerce
 
 * Download the dataset files from the provided links and place them in the appropriate directory.
 * Run the Jupyter Notebooks or Python scripts to perform the tasks.
